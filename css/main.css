@@ -1,0 +1,17 @@
+body {
+  font-family: "Arial";
+  background-color: #111;
+  height: 100%;
+  color: black;
+}
+
+.header-text {
+  font-family: "Georgia"
+}
+
+.links-list {
+  background-color: black;
+  border: 0px;
+  color: white;
+  padding: 3px
+}
